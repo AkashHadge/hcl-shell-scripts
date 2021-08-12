@@ -1,6 +1,5 @@
 #!/bin/bash
-echo "Enter a number [1-12]"
-read n
+echo "you enter $n"
 case $n in
         1)
                 echo "This is January month" ;;

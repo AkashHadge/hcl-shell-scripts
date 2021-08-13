@@ -1,6 +1,6 @@
-ram manager account 45000 
+ramkumar manager account 45000 
 sunil clerk account 35000
-vijay manager sales 50000
-amit manager account 40000
+vijaykumar manager sales 50000
+amit Teamleader account 40000
 sanju peon sales 13000
 
